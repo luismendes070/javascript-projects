@@ -1,15 +1,9 @@
 # javascript-projects
 
 <h1 href="">Frontend demos and tests</h1>
-<ul>
-  <li><a href="#">Angular</li>
-  <li><a href="#">React</li>
-</ul>
+
 <h1 href="">Backend demos and tests</h1>
-<ul>
-  <li><a href="#">Angular</li>
-  <li><a href="#">React</li>
-</ul>
+
 
 <h1 href="">
   Mobile demos and tests
