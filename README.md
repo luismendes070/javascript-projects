@@ -5,6 +5,8 @@
 <br>
 <a href="https://shielded-garden-61283.herokuapp.com//">React demo heroku</a>
 
+<a href="https://github.com/luismendes070/react-selenium-localhost">React Selenium demo</a>
+
 <h1 href="">Backend demos and tests</h1>
 
 https://github.com/luismendes070/nodejs-projects
