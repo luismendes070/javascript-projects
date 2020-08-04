@@ -7,6 +7,8 @@
 
 <a href="https://github.com/luismendes070/react-selenium-localhost">React Selenium demo</a>
 
+<a href="https://github.com/luismendes070/cliente-reactjs"> cliente reactjs api contatos java spring</a>
+
 <h1 href="">Backend demos and tests</h1>
 
 https://github.com/luismendes070/nodejs-projects
@@ -16,13 +18,13 @@ https://github.com/luismendes070/nodejs-projects
   Mobile demos and tests
 </h1>
 
-https://github.com/luismendes070/MyTestApp
+swapi demos
 
-https://github.com/luismendes070/react-native-client-star-wars
+<a href="https://github.com/luismendes070/MyTestApp">MyTestApp</a>
 
-https://github.com/luismendes070/frontend-test
+<a href="https://github.com/luismendes070/react-native-client-star-wars">react-native-cliente-star-wars</a>
 
-https://github.com/luismendes070/cliente-reactjs
+<a href="https://github.com/luismendes070/frontend-test">frontent-test</a>
 
-https://github.com/luismendes070/HelloWorldVectorIcons
+<a href="https://github.com/luismendes070/HelloWorldVectorIcons">Vector Icons demo</a>
 
