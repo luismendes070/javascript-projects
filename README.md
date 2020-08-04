@@ -1,4 +1,4 @@
-# javascript-projects
+# JavaScript-projects
 
 <h1 href="">Frontend demos and tests</h1>
 <a href="https://luismendes070.github.io/curriculo/">Curriculo W3CSS demo</a>
