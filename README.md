@@ -7,6 +7,8 @@
 
 <a href="https://github.com/luismendes070/react-selenium-localhost">React Selenium demo</a>
 
+<a href="https://github.com/luismendes070/amplifyapp">React demo OpenSource AWS Amplify Salesforce Heroku</a>
+
 <a href="https://github.com/luismendes070/cliente-reactjs"> cliente reactjs api contatos java spring</a>
 
 <h1 href="">Backend demos and tests</h1>
