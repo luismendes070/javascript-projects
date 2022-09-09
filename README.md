@@ -5,15 +5,13 @@
 <br>
 <a href="https://desenvolvedor-react.netlify.app/">ReactJS resume Netlify</a>
 
-<br>
-<a href="https://shielded-garden-61283.herokuapp.com//">React demo heroku [DEPRECATED] </a>
-
 <a href="https://github.com/luismendes070/react-selenium-localhost">React Selenium demo</a>
 
-<a href="https://github.com/luismendes070/amplifyapp">React demo OpenSource AWS Amplify Salesforce Heroku</a>
-
 <a href="https://github.com/luismendes070/cliente-reactjs"> cliente reactjs api contatos java spring</a>
-
+<br>
+<a href="https://shielded-garden-61283.herokuapp.com//">React demo free heroku [DEPRECATED] </a>
+<br>
+<a href="https://github.com/luismendes070/amplifyapp">React demo OpenSource AWS Amplify Salesforce free Heroku [DEPRECATED]</a>
 
 <h1 href="">Backend demos and tests</h1>
 
@@ -24,8 +22,6 @@
   Mobile demos and tests
 </h1>
 
-swapi demos
-
 <a href="https://github.com/luismendes070/MyTestApp">MyTestApp</a>
 
 <a href="https://github.com/luismendes070/react-native-client-star-wars">react-native-cliente-star-wars</a>
@@ -34,3 +30,5 @@ swapi demos
 
 <a href="https://github.com/luismendes070/HelloWorldVectorIcons">Vector Icons demo</a>
 
+<a href="https://swapi.dev/about">About swapi demos
+</a>
