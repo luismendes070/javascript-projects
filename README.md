@@ -3,7 +3,10 @@
 <h1 href="">Frontend demos and tests</h1>
 <a href="https://luismendes070.github.io/curriculo/">Curriculo W3CSS demo</a>
 <br>
-<a href="https://shielded-garden-61283.herokuapp.com//">React demo heroku</a>
+<a href="https://desenvolvedor-react.netlify.app/">ReactJS resume Netlify</a>
+
+<br>
+<a href="https://shielded-garden-61283.herokuapp.com//">React demo heroku [DEPRECATED] </a>
 
 <a href="https://github.com/luismendes070/react-selenium-localhost">React Selenium demo</a>
 
