@@ -4,7 +4,7 @@
 <a href="https://luismendes070.github.io/curriculo/">Curriculo W3CSS demo</a>
 <p>
 <br>
-<a href="https://codepen.io/luismendes070/project/full/ZLPxmL/">Angular Tabs ionic StackBlitz</a>
+<a href="https://codepen.io/luismendes070/project/full/ZLPxmL/">Angular Ionic Tabs Codepen Online Code Editor and Front End Web Developer</a>
 <br>
 <a href="https://angular-a8artg.stackblitz.io/">Angular 5 StackBlitz</a>
 <br>
