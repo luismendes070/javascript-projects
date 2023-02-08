@@ -18,7 +18,9 @@
   <br>
 </p>
 <p>
-<a href="https://www.freecodecamp.org/luismendes070">FreeCodeCamp Oct 2016 Feb 2022</a>
+<a href="https://www.freecodecamp.org/luismendes070">FreeCodeCamp Profile Trajectory Oct 2016 Feb 2022</a>
+<br>
+<a href="https://github.com/luismendes070?tab=repositories&q=freecodecamp&type=&language=&sort=">FreeCodeCamp Lives on YouTube</a>
 </p>
 <a href="https://desenvolvedor-react.netlify.app/">ReactJS resume Netlify</a>
 
