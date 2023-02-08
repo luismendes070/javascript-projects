@@ -13,6 +13,8 @@
 <br>
 <a href="https://angular-a8artg.stackblitz.io/">Angular 5 StackBlitz</a>
 <br>
+  <a href="https://github.com/luismendes070/angular-2">Angular v2 Archive</a>
+  <br>
 </p>
 <p>
 <a href="https://www.freecodecamp.org/luismendes070">FreeCodeCamp Oct 2016 Feb 2022</a>
